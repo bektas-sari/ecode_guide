@@ -1,4 +1,4 @@
-# E-Code Guide
+# E-Code Guide (Flutter APP)
 
 A Flutter mobile application that helps users quickly look up and learn about common food additives (E-codes).
 
